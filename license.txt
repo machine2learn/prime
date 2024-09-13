@@ -1,0 +1,4 @@
+BSD License
+
+Copyright (c) 2024 Machine2Learn BV.
+All rights reserved.
