@@ -15,7 +15,7 @@ This repository contains a collection of Python notebooks and scripts for buildi
 
 - Regression Tree ```RegressionTrees_generic.ipyb```
 - Multilinear Regression Model ```multilinear_model_generic.ipyb```
-- Preprocessing Dietary Data of UK BioBank ```food_bradbury.py```
+- Preprocessing Dietary Data of UK BioBank ```food_bradbury.ipyb```
 - Advanced experimental notebook ```multilinear_model_RegressionTrees.ipyb```
 
 ## 1. Regression Tree
