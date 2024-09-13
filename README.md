@@ -570,5 +570,5 @@ To install the necessary dependencies, you can use the following command:
 
 BSD License
 
-Copyright (c) 2019 Machine2Learn BV.
+Copyright (c) 2022 Machine2Learn BV.
 All rights reserved.
