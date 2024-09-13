@@ -5,7 +5,7 @@ This repository contains a collection of Python notebooks and scripts for buildi
 1. Constructing a Regression Tree for data exploration
 2. Building a Multilinear Regression Model
 3. Preprocessing Dietary Data of UK BioBank 
-4. Advanced experimental notebook that notebook performs the following steps:
+4. Advanced experimental notebook that performs the following steps:
    - Applies a stratified train-test split to ensure well-balanced training set if stratification is enabled.
    - Builds multilinear models for both a simple and extended set of predictors.
    - Constructs a regression tree for the residuals, which represent the differences between the ground truth outcome and the values predicted by the simple linear model.
